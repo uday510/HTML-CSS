@@ -1,0 +1,20 @@
+.saffron {
+  background: #FF671F;
+  height: 100px;
+}
+
+.white {
+  background: #FFFFFF;
+  height: 100px;
+}
+
+.green {
+  background: #046A38;
+  height: 100px;
+}
+
+.card {
+  color: #222222;
+  background: lightgray;
+  width: 300px;
+}
